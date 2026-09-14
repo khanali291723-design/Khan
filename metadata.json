@@ -1,0 +1,6 @@
+{
+  "name": "Punjab AQI Web GIS Dashboard",
+  "description": "Interactive Web GIS Air Quality Index dashboard monitoring real-time EPA Punjab station network data across all districts with live spatial layers, pollutant analytics, and official health advisories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
